@@ -7,8 +7,6 @@ https://soundcloud.com/2scs.
 
 *For better audio experience, please use headphones when listening.*
 
-This repository is still in the process of being updated. Please stay tuned.
-
 ----------
 
 ## Use
